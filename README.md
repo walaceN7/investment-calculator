@@ -4,29 +4,29 @@ This project is an investment calculator built with Angular. It allows users to 
 
 ## Features
 
-*   **Calculate Investment:** Users can input the following information:
-    *   Initial Investment
-    *   Annual Investment
-    *   Expected Return (in %)
-    *   Duration (in years)
-*   **View Results:** The application displays a year-by-year breakdown of the investment, including:
-    *   Year
-    *   Interest earned in the year
-    *   Value at the end of the year
-    *   Total interest earned
-    *   Total amount invested
+- **Calculate Investment:** Users can input the following information:
+  - Initial Investment
+  - Annual Investment
+  - Expected Return (in %)
+  - Duration (in years)
+- **View Results:** The application displays a year-by-year breakdown of the investment, including:
+  - Year
+  - Interest earned in the year
+  - Value at the end of the year
+  - Total interest earned
+  - Total amount invested
 
 ## Getting Started
 
 ### Prerequisites
 
-*   Node.js and npm installed on your machine.
+- Node.js and npm installed on your machine.
 
 ### Installation
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/investment-calculator.git
+    git clone https://github.com/walaceN7/investment-calculator
     ```
 2.  Navigate to the project directory:
     ```bash
@@ -55,5 +55,5 @@ npm test
 
 ## Built With
 
-*   [Angular](https://angular.io/) - The web framework used
-*   [TypeScript](https://www.typescriptlang.org/) - The programming language used
+- [Angular](https://angular.io/) - The web framework used
+- [TypeScript](https://www.typescriptlang.org/) - The programming language used
